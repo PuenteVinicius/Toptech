@@ -4,7 +4,7 @@ Toptech é um projeto que foi idealizado pelos alunos de ADS da FATEC de Sorocab
 
 ## Como acontece?
 
-Nós nos reunimos no intervalo em alguma sala disponível e conversamos sobre o tema escolhido
+Nós nos reunimos no horário do intervalo (20:40) em alguma sala disponível e conversamos sobre o tema escolhido
 
 ## Como os temas são escolhidos?
 
